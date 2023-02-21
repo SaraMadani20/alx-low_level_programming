@@ -1,4 +1,6 @@
 #include "main.h"
+#ifndef TIMES_TABLE_H
+#define TIMES_TABLE_H
 
 /**
  * print_times_table - prints the n times table, starting with 0
